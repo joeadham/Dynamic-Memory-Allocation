@@ -1,0 +1,3 @@
+D:/Program Files (x86)/Git/Dynamic-Memory-Allocation/cmake-build-debug/CMakeFiles/Dynamic_Memory_Allocation.dir
+D:/Program Files (x86)/Git/Dynamic-Memory-Allocation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Program Files (x86)/Git/Dynamic-Memory-Allocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
