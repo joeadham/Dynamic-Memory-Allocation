@@ -6,7 +6,7 @@ Implemented a class that dynamically allocates memory in C++ as a task for one o
 2. A get method that returns the value of the data in the given index
 3. Push method adds a new element to the dynamic array at the last index
 4. Insert method adds an element anywhere in the array
-5. Remove method removes and element from the given index and returns it
+5. Remove method removes an element from the given index and returns it
 6. Print method prints all the elements in the dynaic array in order
 7. Get size method returns the size of the dynamic array (the number of elements)
 8. Get capacity method returns the capacity of the dynamic array (how much space it uses in the memory)
